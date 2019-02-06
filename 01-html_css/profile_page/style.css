@@ -1,0 +1,49 @@
+/* TODO: design your profile with CSS */
+img{
+  max-width: 300px;
+}
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+  color: rgb(20,20,20);
+  background-color: #DDD8C4
+}
+h1{
+  font-size: 25px;
+  color: (50,50,50);
+}
+h2{
+  font-size: 20px;
+  color: (40,40,40);
+}
+h2{
+  font-size: 15px;
+  color: (40,40,40);
+}
+h1, h2, h3{
+  font-family: 'Roboto', sans-serif;
+}
+a{
+  text-decoration: none;
+  color: #50808E;
+}
+a:hover{
+  color: rgb(20,20,20);
+}
+.fab{
+  padding-right: 5px;
+}
+ul {
+  list-style-type: none;
+}
+.container{
+  max-width: 600px;
+  margin: auto;
+}
+.inner{
+  background-color: rgb(245,245,245);
+  padding: 25px;
+  border-color: rgb(200,200,200);
+  border: 1px solid;
+  border-radius: 2px;
+  margin-top: 10px;
+}
