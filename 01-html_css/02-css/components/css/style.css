@@ -4,7 +4,8 @@
 /* --- Components design --- */
 @import url("components/avatar.css");
 /* TODO: import new components */
-
+@import url("components/buttons.css");
+@import url("components/banner.css");
 /* --- Fonts & colors --- */
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";

@@ -1,0 +1,27 @@
+.banner{
+  background-image: url('images/background.jpg');
+  background-size: cover;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+.banner_content h1{
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 15px;
+}
+
+.banner_content p{
+  color: rgb(220,220,220);
+  font-weight: light;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+.banner .light{
+  color: rgb(220,220,220)
+  border: 2px solid rgb(220,220,220)
+}
